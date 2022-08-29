@@ -3,7 +3,7 @@
 <!--
 **dcolind/dcolind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://api.daily.dev/devcards/9fd43818d3a64f2ba8a1de29af9d174a.png?r=5pa
+
 
 Here are some ideas to get you started:
 
@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+https://api.daily.dev/devcards/9fd43818d3a64f2ba8a1de29af9d174a.png?r=5pa
 
 
